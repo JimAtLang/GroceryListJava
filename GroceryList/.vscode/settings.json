@@ -1,0 +1,7 @@
+{
+    "java.project.sourcePaths": ["src/com/lang/grocerylist"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
